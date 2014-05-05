@@ -6,6 +6,3 @@ Hello how are you?
 
 I am fine thank you
 
-
-
-It rained heavily yesterday
