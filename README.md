@@ -6,12 +6,4 @@ It rained heavily yesterday.
 The weather was good.
 
 Hello how are you?
-I am fine.
-.
-.
-.
-.
-.
-.
-
 
