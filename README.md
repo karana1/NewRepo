@@ -9,4 +9,8 @@ Hello how are you?
 I am fine thank you
 
 8th may, 2014
+<<<<<<< HEAD
 this is todays date
+=======
+todays quite sunny
+>>>>>>> branch-new
