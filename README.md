@@ -6,10 +6,4 @@ It rained heavily yesterday.
 The weather was good.
 
 Hello how are you?
-I am fine thank you.
-<<<<<<< HEAD
-7th May
-
-=======
-8th
->>>>>>> branch3
+I am fine thank you
